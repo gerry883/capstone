@@ -1,4 +1,4 @@
-Uniprot proteomes to sequence autocorrelation descriptors
+Uniprot proteomes for sequence autocorrelation descriptors
 
 Input files:
 1. [proteome.fasta.gz] the organism proteome fasta.gz file of the uniprot database Example file: 1a1e_protein.pdb
