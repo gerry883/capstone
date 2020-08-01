@@ -1,7 +1,7 @@
 Uniprot proteomes for sequence autocorrelation descriptors
 
 Input files:
-1. [proteome.fasta.gz] the organism proteome fasta.gz file of the uniprot database
+1. [proteome.fasta.gz] the organism proteome fasta.gz file of the uniprot database (https://www.uniprot.org/proteomes/?query=&sort=score)
 
 Output file:
 1. [descriptors.csv] the csv file containing PyBiomed Autocorrelation descriptors
