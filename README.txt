@@ -1,7 +1,7 @@
 Uniprot proteomes for sequence autocorrelation descriptors
 
 Input files:
-1. [proteome.fasta.gz] the organism proteome fasta.gz file of the uniprot database Example file: 1a1e_protein.pdb
+1. [proteome.fasta.gz] the organism proteome fasta.gz file of the uniprot database
 
 Output file:
 1. [descriptors.csv] the csv file containing PyBiomed Autocorrelation descriptors
